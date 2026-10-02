@@ -1,0 +1,14 @@
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.log
+.DS_Store
+Thumbs.db
